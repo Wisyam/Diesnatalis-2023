@@ -34,6 +34,3 @@ This web application is a robust solution for managing transactions during the D
 
 Contributions are welcome! Please submit a pull request or raise an issue if you encounter any problems or have suggestions for improvements.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
