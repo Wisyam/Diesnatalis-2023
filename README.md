@@ -27,7 +27,7 @@ This web application is a robust solution for managing transactions during the D
 
 1. Clone the repository.
 2. Import the `kasir` database.
-3. Configure the database connection in `config.php`.
+3. Configure the database connection in `function.php`.
 4. Run the project on your local server.
 
 ## Contributing
